@@ -1,2 +1,2 @@
 # Visuals-with-Python
-Bar Chart; Line Graph; Histogram; Scatter Plots
+Using python to create Bar Charts; Line Graphs; Histograms; Scatter Plots
